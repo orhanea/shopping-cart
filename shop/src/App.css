@@ -225,11 +225,11 @@
   cursor: pointer;
 }
 
-.cart-product-item .product-quantity-in-the-cart count {
+.cart-product-item .product-quantity-in-the-cart .counter {
   padding: 0.9rem 0;
 }
 
-.cart-product-item .total {
+.cart-product-item .total-price {
   padding-right: 0.5rem;
   justify-self: right;
   font-weight: 700;
